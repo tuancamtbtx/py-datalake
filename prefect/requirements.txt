@@ -1,0 +1,2 @@
+prefect==2.19.5
+./packages/pydata-1.0.0.tar.gz
