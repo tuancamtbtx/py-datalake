@@ -7,7 +7,7 @@ import logging
 
 import os
 
-name = "pydata"
+name = "pylake"
 SOURCES_ROOT = Path(__file__).parent.resolve()
 
 

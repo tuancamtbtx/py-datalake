@@ -169,4 +169,6 @@ cython_debug/
 .DS_Store
 private
 public/
-
+mage_data/
+titanic_clean.*
+.ssh_tunnel

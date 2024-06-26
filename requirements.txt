@@ -148,8 +148,6 @@ python-gnupg==0.5.0
 pyzipper==0.3.6
 pyminizip==0.2.6
 functions-framework==3.*
-./packages/catz-0.0.3.tar.gz
-./packages/datalake-0.0.5.tar.gz
 slack_sdk
 google_api
 google-api-python-client
