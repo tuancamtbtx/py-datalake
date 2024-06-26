@@ -6,7 +6,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
 
-from pydata.logger.logger_mixing import LoggerMixing
+from pylake.logger.logger_mixing import LoggerMixing
 
 class SeleniumProvider(LoggerMixing):
 

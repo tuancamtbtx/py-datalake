@@ -1,4 +1,4 @@
-from pydata.logger.logger_mixing import LoggerMixing
+from pylake.logger.logger_mixing import LoggerMixing
 
 class SFTPTransfer(LoggerMixing):
     def __init__(self, host, username, password, port=22):
